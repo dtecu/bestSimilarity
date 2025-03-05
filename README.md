@@ -1,4 +1,15 @@
-From the directory where this README.md file resides (that is: bestSimilarity directory), please run the following command:
+All required files are in this repository, including poetry.lock and pyproject.toml.
+
+In order to clone this repository, please run:
+
+git clone https://github.com/dtecu/bestSimilarity
+
+
+Then, from the directory where this README.md file resides (that is: bestSimilarity directory), please run:
+
+poetry install 
+
+to make sure all required versions are in sync. Then, from the same directory, run the following command:
 
 poetry run uvicorn src.bestsimilarity.main:api
 

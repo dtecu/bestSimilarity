@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "reference": "Higgs boson in particle physics",
+      "other": ["Best soup recipe", "Basel activities", "Particle physics at CERN"],
+      "top_result": "Particle physics at CERN"
+    },
+    {
+      "reference": "Attention is all you need",
+      "other": ["Transformers implement the very important mechanism of attention", "They never pay attention", "They should be more careful", "They pay a lot of attention"],
+      "top_result": "Transformers implement the very important mechanism of attention"
+    },
+    {
+      "reference": "A random phrase for a test with only one option",
+      "other": ["This is completely unrelated"],
+      "top_result": "This is completely unrelated"
+    },
+    {
+      "reference": "A random phrase for a test with only one option",
+      "other": ["This is completely unrelated", "We do have more than one option this time!"],
+      "top_result": "We do have more than one option this time!"
+    },
+    {
+      "reference": "Large Language Models are a very important topic nowadays",
+      "other": ["Today is it sunny outside", "Yesterday was also sunny and warm", "Just another phrase that hopefully will not be selected", "This is an unimportant sentence", "I studied an LLM class"],
+      "top_result": "I studied an LLM class"
+    },
+    {
+      "reference": "Fruits are very healthy",
+      "other": ["Apple has just released a new iPhone", "People should eat more blueberries", "Did it get confused?", "Basel is a nice city"],
+      "top_result": "People should eat more blueberries"
+    },
+    {
+      "reference": "Some companies produce mobile phones",
+      "other": ["I am trying to confuse it", "I hope it will make the right choice", "Apple produces lots of computers and other devices", "An Apple a day keeps the doctor away", "Can you please keep me company", "Yes, I can keep you company, because I am not busy"],
+      "top_result": "Apple produces lots of computers and other devices"
+    }
+  ]
+}
